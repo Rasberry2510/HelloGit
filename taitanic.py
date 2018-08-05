@@ -45,3 +45,4 @@ test["Embarked"][test["Embarked"] == "Q"] = 2
 test.Fare[152] = test.Fare.median()
  
 test.head(10)
+test.head(20)
