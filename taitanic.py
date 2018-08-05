@@ -46,3 +46,4 @@ test.Fare[152] = test.Fare.median()
  
 test.head(10)
 test.head(20)
+test.head(30)
